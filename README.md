@@ -36,8 +36,8 @@
 ## 👨‍💻 Author
 
 **Paing Zin Ye Maung**
-* **GitHub:** [GitHub Profile Link ထည့်ရန်](https://github.com/paingzinyemaung)
-* **LinkedIn:** [LinkedIn Profile Link ထည့်ရန်](https://linkedin.com/in/paingzinyemaung)
+* **GitHub:** [GitHub Profile](https://github.com/paingzinyemaung)
+* **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/paingzinyemaung)
 
 ---
 ⭐️ သင် ဒီ Project ကို သဘောကျတယ်ဆိုရင် **Star** ပေးခဲ့ဖို့ မမေ့နဲ့ဦးနော်။
